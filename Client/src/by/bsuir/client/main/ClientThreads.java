@@ -57,19 +57,6 @@ public class ClientThreads implements Runnable {
                 System.out.println("Thread " + threadName + ". Request 4 (CREATE " + create[0] + " "
                         + create[1] + " " + create[2] + " " + create[3] + " " + create[4] + "):\n" + ois.readUTF() + "\n");
 
-    //            for (int i = 0; i < 3; i++) {
-    //
-    //                oos.writeUTF(requests[i]);
-    //
-    //                oos.flush();
-    //
-    //
-    //                Thread.sleep(10);
-    //
-    //                System.out.println("Thread " + threadName + ". Request " + (i + 1) + " (" + requests[i] + "):\n" + ois.readUTF() + "\n");
-    //
-    //                Thread.sleep(5000);
-    //            }
             }catch (SocketException e) {
                 System.out.println("Server disconnected.");
 
