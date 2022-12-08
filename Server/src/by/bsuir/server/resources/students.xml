@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+    <student>
+        <id>1</id>
+        <name>Anastasia</name>
+        <surname>Abakanovich</surname>
+        <faculty>Computer systems and networks</faculty>
+        <speciality>Information technology software</speciality>
+        <group>051001</group>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Denis</name>
+        <surname>Volokhov</surname>
+        <faculty>Computer design</faculty>
+        <speciality>Medical electronics</speciality>
+        <group>211801</group>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Kristina</name>
+        <surname>Olekhnovich</surname>
+        <faculty>Computer systems and networks</faculty>
+        <speciality>Informatics and programming technologies</speciality>
+        <group>053503</group>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Oleg</name>
+        <surname>Volokhov</surname>
+        <faculty>Engineering and economic</faculty>
+        <speciality>Electronic marketing</speciality>
+        <group>174005</group>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Ivan</name>
+        <surname>Sidorovich</surname>
+        <faculty>Computer systems and networks</faculty>
+        <speciality>Information technology software</speciality>
+        <group>051001</group>
+    </student>
+</students>

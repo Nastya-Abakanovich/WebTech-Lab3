@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<administrators>
+    <admin>
+        <login>admin</login>
+        <passwordHash>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</passwordHash>
+    </admin>
+    <admin>
+        <login>login123</login>
+        <passwordHash>31457e06e2adb2178358e9fc6705e0b6f37e9b6ec9456e8890d28f292be9adc4</passwordHash>
+    </admin>
+</administrators>
